@@ -25,6 +25,7 @@ export default interface Weather {
 /**
  * Weather API structure
  * Website : https://weatherstack.com/
+ * Documentation : https://weatherstack.com/documentation
  * Respone Sample
  *
  * {
